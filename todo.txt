@@ -1,0 +1,9 @@
+[] - Fix a bug in Sanity in slug
+[X] - Select options in Sanity, not write them
+[] - Make news section
+[] - Make reviews section
+[] - Make callback section
+[] - Make footer section
+[] - Make Privacy policy page
+[] - Make blog section
+[] - Make shop page as webapp
